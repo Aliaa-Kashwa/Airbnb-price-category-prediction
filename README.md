@@ -49,3 +49,5 @@ The notebook consists of:
     - We will use transfer learning model with our problem(VGG 19).
 
 Note: Each trial came with its plan, observations and its explanation in details.
+
+Competition link on Kaggle: https://www.kaggle.com/competitions/cisc-873-dm-f22-a4
